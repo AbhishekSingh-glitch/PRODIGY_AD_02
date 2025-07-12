@@ -15,8 +15,11 @@ Simple design, smooth user experience, and core features only — no clutter.
 📱 Responsive design — works great on mobile & desktop
 
 <h2>📸 Screenshots</h2>
-<img alt="Screenshot_20250712_211458.png" height="300" src="screenshots/Screenshot_20250712_211458.png"/>
-<img alt="Screenshot_20250712_211539.png" height="300" src="screenshots/Screenshot_20250712_211539.png"/>
+<div style="display: flex; gap: 10px;">
+  <img alt="Screenshot_20250712_211458.png" height="300" src="screenshots/Screenshot_20250712_211458.png"/>
+  <img alt="Screenshot_20250712_211539.png" height="300" src="screenshots/Screenshot_20250712_211539.png"/>
+</div>
+
 
 Material Design or custom minimalist design
 
