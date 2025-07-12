@@ -1,4 +1,4 @@
-📝 Minimalist ToDo List App
+<h1>📝 Minimalist ToDo List App</h1>
 
 A clean, distraction-free ToDo app built to help you focus on what matters.
 Simple design, smooth user experience, and core features only — no clutter.
